@@ -28,6 +28,5 @@ All done locally, with FastAPI backend and a simple web interface for control.
  – for video processing
 - PyVirtualCam
  – virtual webcam output
-
-HTML/CSS/JS
+- HTML/CSS/JS
  – frontend
