@@ -1,0 +1,9 @@
+#environment
+broadcaster
+# default model
+yolov8m-seg.pt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
